@@ -1,2 +1,2 @@
 # hello-world
-I am trying to install Arepo in a one day of August.
+I am trying to install Arepo in one of days in August.
